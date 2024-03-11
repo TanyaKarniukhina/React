@@ -1,0 +1,23 @@
+.user-container {
+    width: 198px;
+    height: 83px;
+    color: white;
+    background-color: #2231AA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-initials {
+    background-color: #5360CD;
+    margin-right: 5px;
+    font-size: 16px;
+    border-radius: 2px;
+    font-weight: 600;
+    padding: 12px 10px;
+}
+
+.username {
+    font-size: 16px;
+    font-weight: 600;
+}
