@@ -1,0 +1,92 @@
+.medium-post-card {
+    width: 352px;
+    height: 452px;
+    margin-bottom: 40px;
+}
+
+.medium-post-card-container {
+    margin-top: 24px;
+    display: flex;
+    margin-bottom: 28px;
+    justify-content: space-between;
+}
+
+.medium-post-card__date {
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    color: #8D8E97;    
+}
+
+.medium-post-card__title {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.medium-post-card__image {
+    width: 352px;
+    height: 246px;
+    object-fit: cover;
+}
+
+.medium-post-card-details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    height: 24.5px;
+}
+
+.medium-post-card-details-reaction {
+    display: flex;
+    width: 80px;
+    justify-content: space-between;
+}
+
+.medium-post-card-details__like-container {
+    display: flex;
+}
+
+.medium-post-card-details__like {
+    width: 21.68px;
+    height: 22px;
+    margin-right: 2px;
+}
+
+.medium-post-card-details__dislike {
+    width: 21.68px;
+    height: 22px;
+}
+
+.medium-post-card-details__like-amount {
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.medium-post-card-details-extra {
+    display: flex;
+    width: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.medium-post-card-details__bookmark {
+    width: 16px;
+    height: 18px;
+}
+
+.medium-post-card-details__dots {
+    width: 20px;
+    height: 20px;
+}
+
+.medium-post-card-separator {
+    width: 352px;
+    height: 1px;
+    background-color: #DADADA;
+    display: flex;
+    justify-content: center;
+}

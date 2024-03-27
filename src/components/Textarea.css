@@ -1,0 +1,27 @@
+.textarea {
+    display: flex;
+    align-items: center;
+    width: 1120px;
+    height: 245px;
+    margin-top: 8px;
+    padding-left: 20px;
+    padding-top: 18px;
+    font-size: 16px;
+    border: none;
+    border-radius: 2px;
+    resize: none;
+}
+
+.textarealabel {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.textarea:focus {
+    outline: 2px solid #DADADA;
+}
+
+textarea:disabled {
+    background: #E8E8E8;
+}
+

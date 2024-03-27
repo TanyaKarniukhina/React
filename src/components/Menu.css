@@ -1,0 +1,20 @@
+.menu-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 84px;
+    height: 84px;
+    border: 1px solid #5360CD;
+}
+
+.menu-close {
+    width: 24px;
+    height: 24px;
+    color: white;
+}
+
+.menu-burger {
+    width: 24px;
+    height: 24px;
+    color: white;
+}

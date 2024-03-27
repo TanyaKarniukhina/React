@@ -1,0 +1,63 @@
+.content {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    width: 1120px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 32px 0px 72px;
+}
+
+.forgot-password {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form {
+    padding: 40px;
+    border: 1px solid #DADADA;
+    margin-bottom: 72px;
+}
+
+.button-primary {
+    width: 546px;
+}
+
+.sign-up-input {
+    width: 546px;
+    height: 456px;
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sign-up-password {
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sign-up-account {
+    margin: 24px 0px 0px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #8D8E97; 
+}
+
+.sign-in-link {
+    font-weight: 500;
+    font-size: 16px;
+    color: #2231AA; 
+}
