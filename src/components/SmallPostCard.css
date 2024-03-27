@@ -1,0 +1,92 @@
+.small-post-card {
+    width: 352px;
+}
+
+.small-post-card-container {
+    display: flex;
+    margin-bottom: 24px;
+    justify-content: space-between;
+}
+
+.small-post-card-container-text {
+    width: 222px;
+}
+
+.small-post-card__date {
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    color: #8D8E97;    
+}
+
+.small-post-card__title {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.small-post-card__image {
+    width: 96px;
+    height: 96px;  
+    object-fit: cover;
+}
+
+.small-post-card-details {
+    display: flex;
+    justify-content: space-between;
+    height: 24.5px;
+    margin-bottom: 40px;
+}
+
+.small-post-card-details-reaction {
+    display: flex;
+    width: 80px;
+    justify-content: space-between;
+}
+
+.small-post-card-details__like-container {
+    display: flex;
+}
+
+.small-post-card-details__like {
+    width: 21.68px;
+    height: 22px;
+    margin-right: 2px;
+}
+
+.small-post-card-details__dislike {
+    width: 21.68px;
+    height: 22px;
+}
+
+.small-post-card-details__like-amount {
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.small-post-card-details-extra {
+    display: flex;
+    width: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.small-post-card-details__bookmark {
+    width: 16px;
+    height: 18px;
+}
+
+.small-post-card-details__dots {
+    width: 20px;
+    height: 20px;
+}
+
+.small-post-card-separator {
+    width: 354px;
+    height: 1px;
+    background-color: #DADADA;
+    display: flex;
+    justify-content: center;
+}

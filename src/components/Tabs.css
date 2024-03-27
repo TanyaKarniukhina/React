@@ -1,14 +1,14 @@
 .tabs-container {
     display: flex;
     width: 1120px;
-    margin: 40px 0px 64px 0px;
+    margin: 0px 0px 32px 0px;
 }
 
 .tabs-button-all {
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 2px solid black;
+    border-bottom: 3px solid;
     background-color: transparent;
     font-weight: 600;
     font-size: 16px;
@@ -49,14 +49,14 @@
 }
 
 .tabs-button-all:hover{
-    color: blue;
-    border-bottom: 2px solid blue;
+    color: #5360CD;
+    border-bottom: 2px solid #5360CD;
 } 
 
 .tabs-button-favorites:hover{
-    color: blue;
+    color: #5360CD;
 } 
 
 .tabs-button-popular:hover{
-    color: blue;
+    color: #5360CD;
 } 

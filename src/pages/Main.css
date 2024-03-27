@@ -1,0 +1,20 @@
+.main-container {
+    width: 100vw;
+}
+
+.main {
+    width: 1920px;
+}
+
+.content {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    width: 1120px;
+    display: flex;
+    justify-content: flex-start;
+}
